@@ -19,10 +19,10 @@ Enjoy!
 | Name                        | Description                           | Code Sample Complete |
 |-----------------------------|---------------------------------------|----------|
 | **S**ingle Responsibility   | One reason to change.                 |  ✅      |
-| **O**pen/Closed             | Open for extension, closed for modification. |    ❌      |
-| **L**iskov Substitution     | Subtypes must be substitutable for their base types. |    ❌      |
-| **I**nterface Segregation   | No client should be forced to depend on interfaces they do not use. |    ❌      |
-| **D**ependency Inversion    | High-level modules should not depend on low-level ones; both should depend on abstractions. |  ❌        |
+| **O**pen/Closed             | Open for extension, closed for modification. |    ✅      |
+| **L**iskov Substitution     | Subtypes must be substitutable for their base types. |    ✅      |
+| **I**nterface Segregation   | No client should be forced to depend on interfaces they do not use. |    ✅      |
+| **D**ependency Inversion    | High-level modules should not depend on low-level ones; both should depend on abstractions. |  ✅        |
 
 
 ## Design Patterns
