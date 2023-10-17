@@ -4,7 +4,7 @@
 
 **Details**
 
-I created this for my own educational purposes as well as using it for training others in the classroom.
+Here is a complete overview of **Design Patterns** and related topics for Unity. The repo is complete with code samples.
 
 Enjoy!
 
@@ -12,11 +12,11 @@ Enjoy!
 
 ### Theory
 
-**SOLID Principles** - The intention of these SOLID principles is to make software designs more understandable, easier to maintain and easier to extend. As a software engineer, these 5 principles are essential to know! See <a href="https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4">IT Next Docs</a> for more.
+**S.O.L.I.D. Principles** make software designs more understandable, easier to maintain and easier to extend. As a software engineer, these 5 principles are essential to know! (See <a href="https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4">ITNext.io</a>)
 
 ### List
 
-| Name                        | Description                           | Complete |
+| Name                        | Description                           | Code Sample Complete |
 |-----------------------------|---------------------------------------|----------|
 | **S**ingle Responsibility   | One reason to change.                 |  ✅      |
 | **O**pen/Closed             | Open for extension, closed for modification. |    ❌      |
@@ -29,15 +29,15 @@ Enjoy!
 
 ### Theory
 
-It is a series of small demos. Each shows one design pattern.
+These patterns provide solutions to common design problems and are a foundational part of software design knowledge. There are 3 types.
 
-* **Creational Patterns** - Design patterns that deal with object creation mechanisms, trying to create objects in a manner suitable to the situation. The basic form of object creation could result in design problems or in added complexity to the design. Creational design patterns solve this problem by somehow controlling this object creation. See <a href="https://en.wikipedia.org/wiki/Creational_pattern">Wikipedia</a> for more.
-* **Structural Patterns** - Design patterns that ease the design by identifying a simple way to realize relationships among entities. See <a href="https://en.wikipedia.org/wiki/Structural_pattern">Wikipedia</a> for more.
-* **Behavioral Patterns** - Design patterns that identify common communication patterns among objects and realize these patterns. By doing so, these patterns increase flexibility in carrying out this communication. See <a href="https://en.wikipedia.org/wiki/Behavioral_pattern">Wikipedia</a> for more.
+* **Creational Patterns** - Design patterns to deal with object creation. (See <a href="https://en.wikipedia.org/wiki/Creational_pattern">Wikipedia</a>)
+* **Structural Patterns** - Design patterns to deal with object-object relationships. (See <a href="https://en.wikipedia.org/wiki/Structural_pattern">Wikipedia</a>)
+* **Behavioral Patterns** - Design patterns to deal with object-object communication. (See <a href="https://en.wikipedia.org/wiki/Behavioral_pattern">Wikipedia</a>)
 
 ### List
 
-| Type           | Name                    | Description                          | Complete |
+| Type           | Name                    | Description                          | Code Sample Complete |
 |----------------|-------------------------|--------------------------------------|----------|
 |                |                         |                                      |          |
 | Creational     |                         |                                      |          |
