@@ -31,14 +31,28 @@ Enjoy!
 
 These patterns provide solutions to common design problems and are a foundational part of software design knowledge. There are 3 types.
 
+* **Behavioral Patterns** - Design patterns to deal with object-object communication. (See <a href="https://en.wikipedia.org/wiki/Behavioral_pattern">Wikipedia</a>)
 * **Creational Patterns** - Design patterns to deal with object creation. (See <a href="https://en.wikipedia.org/wiki/Creational_pattern">Wikipedia</a>)
 * **Structural Patterns** - Design patterns to deal with object-object relationships. (See <a href="https://en.wikipedia.org/wiki/Structural_pattern">Wikipedia</a>)
-* **Behavioral Patterns** - Design patterns to deal with object-object communication. (See <a href="https://en.wikipedia.org/wiki/Behavioral_pattern">Wikipedia</a>)
+
 
 ### List
 
 | Type           | Name                    | Description                          | Code Sample Complete |
 |----------------|-------------------------|--------------------------------------|----------|
+|                |                         |                                      |          |
+| Behavioral      |                         |                                      |          |
+|                | Chain of Responsibility | Passes request among a chain of objects. |    ❌      |
+|                | Command                 | Encapsulates a request as an object. |    ✅       |
+|                | Interpreter             | Provides a language interpreter.     |    ❌      |
+|                | Iterator                | Sequentially access elements in a collection. |    ❌      |
+|                | Mediator                | Centralized external communications. |    ❌      |
+|                | Memento                 | Capture and restore object's internal state. |     ✅      |
+|                | Observer                | Notify changes to its state.         |    ❌      |
+|                | State                   | Alter behavior when its state changes. |     ✅      |
+|                | Strategy                | Encapsulates algorithms using strategy pattern. |    ❌      |
+|                | Template Method         | Defer exact steps to subclasses.     |      ❌    |
+|                | Visitor                 | Add new operations without altering a class. |    ❌      |
 |                |                         |                                      |          |
 | Creational     |                         |                                      |          |
 |                | Singleton               | Ensures a class has one instance.    |    ❌      |
@@ -55,19 +69,7 @@ These patterns provide solutions to common design problems and are a foundationa
 |                | Facade                  | Simplified interface to a subsystem. |   ❌       |
 |                | Flyweight               | Reuses objects by sharing common state. |     ❌     |
 |                | Proxy                   | Represents another object.           |     ❌     |
-|                |                         |                                      |          |
-| Behavioral      |                         |                                      |          |
-|                | Chain of Responsibility | Passes request among a chain of objects. |    ❌      |
-|                | Command                 | Encapsulates a request as an object. |    ❌      |
-|                | Interpreter             | Provides a language interpreter.     |    ❌      |
-|                | Iterator                | Sequentially access elements in a collection. |    ❌      |
-|                | Mediator                | Centralized external communications. |    ❌      |
-|                | Memento                 | Capture and restore object's internal state. |     ❌     |
-|                | Observer                | Notify changes to its state.         |    ❌      |
-|                | State                   | Alter behavior when its state changes. |     ❌     |
-|                | Strategy                | Encapsulates algorithms using strategy pattern. |    ❌      |
-|                | Template Method         | Defer exact steps to subclasses.     |      ❌    |
-|                | Visitor                 | Add new operations without altering a class. |    ❌      |
+
 
 
 ## Features
