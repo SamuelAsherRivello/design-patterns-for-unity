@@ -1,0 +1,16 @@
+{
+	"name": "RMC.Examples.DesignPatterns.CreationalPatterns.SingletonPattern.SingletonMonoBehaviour",
+	"rootNamespace": "",
+	"references": [
+		"GUID:0224583c42796c9418bcceb45d6235f7"
+	],
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}
