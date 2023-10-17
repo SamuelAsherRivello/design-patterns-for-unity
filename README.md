@@ -55,13 +55,11 @@ These patterns provide solutions to common design problems and are a foundationa
 |                | Visitor                 | Add new operations without altering a class. |    ❌      |
 |                |                         |                                      |          |
 | Creational     |                         |                                      |          |
-
 |                | Abstract Factory        | Creates families of related objects. |      ❌    |
 |                | Builder                 | Separates object construction from its representation. |   ❌       |
 |                | Factory Method          | Creates objects without specifying the exact class to create. |  ✅         |
 |                | Prototype               | Clone or copy initialized instances. |    ❌      |
 |                | Singleton               | Ensures a class has one instance.    |    ✅       |
-
 |                |                         |                                      |          |
 |  Structural    |                         |                                      |          |
 |                | Adapter                 | Matches interfaces of different classes. |   ❌       |
