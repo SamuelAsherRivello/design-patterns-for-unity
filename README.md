@@ -19,10 +19,10 @@ Enjoy!
 | Name                        | Description                           | Code Sample Complete |
 |-----------------------------|---------------------------------------|----------|
 | **S**ingle Responsibility   | One reason to change.                 |  ✅      |
-| **O**pen/Closed             | Open for extension, closed for modification. |    ❌      |
-| **L**iskov Substitution     | Subtypes must be substitutable for their base types. |    ❌      |
-| **I**nterface Segregation   | No client should be forced to depend on interfaces they do not use. |    ❌      |
-| **D**ependency Inversion    | High-level modules should not depend on low-level ones; both should depend on abstractions. |  ❌        |
+| **O**pen/Closed             | Open for extension, closed for modification. |    ✅      |
+| **L**iskov Substitution     | Subtypes must be substitutable for their base types. |    ✅      |
+| **I**nterface Segregation   | No client should be forced to depend on interfaces they do not use. |    ✅      |
+| **D**ependency Inversion    | High-level modules should not depend on low-level ones; both should depend on abstractions. |  ✅        |
 
 
 ## Design Patterns
@@ -55,11 +55,11 @@ These patterns provide solutions to common design problems and are a foundationa
 |                | Visitor                 | Add new operations without altering a class. |    ❌      |
 |                |                         |                                      |          |
 | Creational     |                         |                                      |          |
-|                | Singleton               | Ensures a class has one instance.    |    ❌      |
-|                | Factory Method          | Creates objects without specifying the exact class to create. |  ❌        |
 |                | Abstract Factory        | Creates families of related objects. |      ❌    |
-|                | Prototype               | Clone or copy initialized instances. |    ❌      |
 |                | Builder                 | Separates object construction from its representation. |   ❌       |
+|                | Factory Method          | Creates objects without specifying the exact class to create. |  ✅         |
+|                | Prototype               | Clone or copy initialized instances. |    ❌      |
+|                | Singleton               | Ensures a class has one instance.    |    ✅       |
 |                |                         |                                      |          |
 |  Structural    |                         |                                      |          |
 |                | Adapter                 | Matches interfaces of different classes. |   ❌       |
