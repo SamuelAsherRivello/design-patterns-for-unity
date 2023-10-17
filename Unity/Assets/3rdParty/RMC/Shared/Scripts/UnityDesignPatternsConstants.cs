@@ -1,4 +1,4 @@
-namespace RMC.Examples.DesignPatterns.Shared
+namespace RMC.Shared
 {
 	/// <summary>
 	/// Reusable constant values for the Unity Project

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace RMC.Examples.DesignPatterns.Shared
+namespace RMC.Shared
 {
 	/// <summary>
 	/// Press the Spacebar to restart the scene.

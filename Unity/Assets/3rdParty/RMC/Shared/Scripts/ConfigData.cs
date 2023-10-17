@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace RMC.Examples.DesignPatterns.Shared
+namespace RMC.Shared
 {
 	/// <summary>
 	/// TODO: Add comment
