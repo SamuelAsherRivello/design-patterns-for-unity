@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace RMC.Projects.UnityDesignPatterns.Patterns.StructuralPatterns.Flyweight
+namespace RMC.Examples.DesignPatterns.StructuralPatterns.Flyweight
 {
 	/// <summary>
 	/// TODO: Add comment

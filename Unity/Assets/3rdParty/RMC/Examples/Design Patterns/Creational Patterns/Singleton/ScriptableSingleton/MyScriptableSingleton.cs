@@ -1,7 +1,7 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace RMC.Projects.UnityDesignPatterns.Patterns.CreationalPatterns.Singleton
+namespace RMC.Examples.DesignPatterns.CreationalPatterns.Singleton
 {
 	[FilePath("RMC/MyScriptableSingleton.foo", FilePathAttribute.Location.ProjectFolder)]
 	public class MyScriptableSingleton : ScriptableSingleton<MyScriptableSingleton>

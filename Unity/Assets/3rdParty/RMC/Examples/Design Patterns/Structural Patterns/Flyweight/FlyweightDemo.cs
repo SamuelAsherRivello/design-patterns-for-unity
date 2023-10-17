@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace RMC.Projects.UnityDesignPatterns.Patterns.StructuralPatterns.Flyweight
+namespace RMC.Examples.DesignPatterns.StructuralPatterns.Flyweight
 {
 	/// <summary>
 	/// Use sharing to support large numbers of fine-grained objects efficiently.

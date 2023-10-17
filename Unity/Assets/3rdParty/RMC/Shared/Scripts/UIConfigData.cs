@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace RMC.Projects.UnityDesignPatterns.Shared
+namespace RMC.Examples.DesignPatterns.Shared
 {
 	[CreateAssetMenu(fileName = "UIConfigData",
 		menuName = UnityDesignPatternsConstants.CreateAssetMenuPath + "Create New UIConfigData",

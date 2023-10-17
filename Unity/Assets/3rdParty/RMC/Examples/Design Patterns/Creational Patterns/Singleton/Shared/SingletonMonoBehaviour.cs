@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace RMC.Projects.UnityDesignPatterns.Patterns.CreationalPatterns.Singleton
+namespace RMC.Examples.DesignPatterns.CreationalPatterns.Singleton
 {
 	public abstract class SingletonMonobehavior<T> : MonoBehaviour where T : MonoBehaviour
 	{

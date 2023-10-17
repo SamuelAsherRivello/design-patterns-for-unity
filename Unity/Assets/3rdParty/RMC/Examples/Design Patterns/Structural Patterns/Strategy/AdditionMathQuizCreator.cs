@@ -1,5 +1,5 @@
 ﻿
-namespace RMC.Projects.UnityDesignPatterns.Patterns.StructuralPatterns.Strategy
+namespace RMC.Examples.DesignPatterns.StructuralPatterns.Strategy
 {
 	/// <summary>
 	/// TODO: Add comment

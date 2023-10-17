@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace RMC.Projects.UnityDesignPatterns.Patterns.CreationalPatterns.Singleton
+namespace RMC.Examples.DesignPatterns.CreationalPatterns.Singleton
 {
 	/// <summary>
 	/// Allows to be referenced via "Instance"

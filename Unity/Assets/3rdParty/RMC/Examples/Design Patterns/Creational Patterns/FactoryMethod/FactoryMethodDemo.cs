@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace RMC.Projects.UnityDesignPatterns.Patterns.CreationalPatterns.FactoryMethod
+namespace RMC.Examples.DesignPatterns.CreationalPatterns.FactoryMethod
 {
 	/// <summary>
 	/// Define an interface for creating an object, but let subclasses decide which class to instantiate. 

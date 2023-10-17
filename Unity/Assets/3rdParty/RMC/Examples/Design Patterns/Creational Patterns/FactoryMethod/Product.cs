@@ -1,5 +1,5 @@
 ﻿
-namespace RMC.Projects.UnityDesignPatterns.Patterns.CreationalPatterns.FactoryMethod
+namespace RMC.Examples.DesignPatterns.CreationalPatterns.FactoryMethod
 {
 	/// <summary>
 	/// TODO: Add comment

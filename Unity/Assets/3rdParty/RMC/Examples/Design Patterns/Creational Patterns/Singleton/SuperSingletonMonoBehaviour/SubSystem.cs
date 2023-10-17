@@ -1,7 +1,7 @@
 ﻿
 using UnityEngine;
 
-namespace RMC.Projects.UnityDesignPatterns.Patterns.CreationalPatterns.Singleton
+namespace RMC.Examples.DesignPatterns.CreationalPatterns.Singleton
 {
 	/// <summary>
 	///  Some examples of arbitrary systems under the SuperSingleton

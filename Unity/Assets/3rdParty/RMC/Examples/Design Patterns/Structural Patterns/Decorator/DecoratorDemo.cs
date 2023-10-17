@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace RMC.Projects.UnityDesignPatterns.Patterns.StructuralPatterns.Decorator
+namespace RMC.Examples.DesignPatterns.StructuralPatterns.Decorator
 {
 	/// <summary>
 	/// Attach additional responsibilities to an object dynamically. 

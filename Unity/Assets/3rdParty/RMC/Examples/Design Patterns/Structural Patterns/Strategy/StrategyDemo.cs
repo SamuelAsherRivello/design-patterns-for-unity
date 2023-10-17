@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace RMC.Projects.UnityDesignPatterns.Patterns.StructuralPatterns.Strategy
+namespace RMC.Examples.DesignPatterns.StructuralPatterns.Strategy
 {
 	/// <summary>
 	/// Define a family of algorithms, encapsulate each one, and make them interchangeable.

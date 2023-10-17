@@ -1,4 +1,4 @@
-﻿using RMC.Projects.UnityDesignPatterns.Shared;
+﻿using RMC.Examples.DesignPatterns.Shared;
 using UnityEditor;
 using UnityEngine;
 

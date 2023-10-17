@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace RMC.Projects.UnityDesignPatterns.Patterns.StructuralPatterns.Decorator
+namespace RMC.Examples.DesignPatterns.StructuralPatterns.Decorator
 {
 	/// <summary>
 	/// TODO: Add comment
