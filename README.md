@@ -28,6 +28,20 @@ Enjoy!
 1. [Contact](#contact)
 
 
+## Getting Started
+
+### Instructions
+
+1. Download this repo (*.zip or *.git)
+1. Download the [Unity Editor](https://store.unity.com/#plans-individual) (See `Unity Version` below)
+1. Open the Unity Hub
+1. Unity Hub: Click the 'Add' button
+1. Unity Hub: Choose the `Unity` folder from the repo
+1. Unity Hub: Choose the project from the project list to open the Unity Editor
+1. Unity Editor: Open one of the included Scenes
+1. Unity Editor: Play the Scene
+1. Enjoy!
+
 ## Configuration
 
 **Documentation**
@@ -41,8 +55,6 @@ Enjoy!
 
 **Structure**
 * `Unity` - Open this folder in the Unity Editor
-* `Unity/Assets/Game/` - Several game versions exist. Open any Scene. Press 'Play'!
-* `Unity/Assets/Shared/` - These are shared assets used across several game versions.
 
 **Dependencies**
 * `Various` - Already included via [Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui.html) as this [Version](./Unity/Packages/manifest.json)

@@ -17,9 +17,15 @@ namespace RMC.BestPractices.DesignPatterns.CreationalPatterns.SingletonPattern.S
 
 			// Singleton ScriptableObject
 			// -- Writes to local path
+			
+			
+#if UNITY_EDITOR
 			MyScriptableSingleton.instance.Log();
 			MyScriptableSingleton.instance.IncrementSomeCounter();
 			MyScriptableSingleton.instance.Log();
+#endif
+			
+			
 		}
 	}
 }

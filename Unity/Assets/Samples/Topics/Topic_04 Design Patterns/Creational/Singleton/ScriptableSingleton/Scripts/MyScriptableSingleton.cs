@@ -1,14 +1,12 @@
 ﻿#if UNITY_EDITOR
 using UnityEditor;
-#endif
 using UnityEngine;
 
 namespace RMC.BestPractices.DesignPatterns.CreationalPatterns.SingletonPattern.ScriptableSingletons
 {
-#if UNITY_EDITOR
 	[FilePath("RMC/MyScriptableSingleton.foo", FilePathAttribute.Location.ProjectFolder)]
-#endif
 	public class MyScriptableSingleton : ScriptableSingleton<MyScriptableSingleton>
+	
 	{
 		// Public access - as getter only
 		public string AppId { get { return _appId; }}
@@ -37,4 +35,4 @@ namespace RMC.BestPractices.DesignPatterns.CreationalPatterns.SingletonPattern.S
 	}
 
 }
-
+#endif
